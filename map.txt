@@ -1,0 +1,16 @@
+:ns
+
+:feature world
+
+:abs 0 0 0
+:height 2
+aaaaaa
+aaaaaa
+aaaaaa
+aaaaaa
+aaaaaa
+aaaaaa
+
+:floor a g
+:outer a b
+:w

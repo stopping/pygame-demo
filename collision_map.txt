@@ -1,0 +1,59 @@
+# Use the root namespace
+:ns
+
+# Declare a new feature 'yard'
+:feature yard
+
+:abs 0 0 0
+:height 2
+aaaa
+aaaa
+aaaa
+aaaa
+
+:floor a f
+:outer a b
+:w
+
+:feature floor
+aa
+aa
+
+:floor a f
+:outer a .
+:w
+
+:feature platform
+aa
+aa
+
+:floor a g
+:outer a c
+:w
+
+:feature world
+
+:abs 0 0 0
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+aaaaaaaaaaa
+
+:floor a g
+:outer a b
+:w
+
+:abs 4 4 0
+:stamp yard
+:rel 2 0 0
+:stamp platform
+:rel 0 0 1
+:stamp floor
